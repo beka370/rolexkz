@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(233, 184, 120);
+    padding-top: 500px;
+} 
+.Doner {
+    
+    background-image: url(images.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 50px;
+    
+    
+}
+.bahandi {
+    color: rgb(243, 133, 0);
+    padding-right: 50px;
+}
+span {
+    font-weight: 200;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    gap: 30px;
+}
+.burger-agasi {
+    display: flex;
+    gap: 50px;
+}
+.burger img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.donergoi {
+    display: flex;
+    justify-content: space-between;
+}
+.abaya img {
+
+height: 100px;
+    width: 100px;
+    border-radius: 50%;
+} 
+
+.kazakh img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.assa {
+    display: flex;
+    justify-content: space-around;
+  
+}
+.salam-bro {
+    padding-left: 160px;
+}
